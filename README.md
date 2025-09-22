@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+UI - 
+![Alt text](assets/ui/breakfastScreen.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
